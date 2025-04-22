@@ -1,1 +1,0 @@
-print(f"процент выполениния: {self.persent}% всего спаршено: {len(self.all_appartments_dict)}")
